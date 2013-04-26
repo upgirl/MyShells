@@ -3,9 +3,7 @@ MyShells
 
 shell scripts used usually
 
-1 range.sh
-
-Commont: Get parameters from outside, Output value within a specified range
+1 range.sh  //Get parameters from outside, Output value within a specified range
 
 Usage: sh range.sh 1 3
 
