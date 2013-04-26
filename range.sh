@@ -11,7 +11,7 @@ while(($tmp<=$end))
 do
         echo $tmp
 
-        (( tmp++ ))
+        ((tmp++))
 done
 #========================
 echo "Another way"
@@ -21,6 +21,6 @@ while true;do
 
         echo $tmp
 
-        (( tmp++ ))
+        ((tmp++))
 done
 #========================
