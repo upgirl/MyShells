@@ -1,7 +1,8 @@
 MyShells
 ========
 
-shell scripts used usually
+Shell Scripts Used Usually
+
 
 1 range.sh  //Get parameters from outside, Output value within a specified range
 
